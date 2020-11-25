@@ -4,7 +4,7 @@ import java.io.*;
 
 /**
  * Class representing all the storage of the scores
- * @author CodyMacxton
+ * @author Cody claxton
  *
  */
 public class ScoreManager {
